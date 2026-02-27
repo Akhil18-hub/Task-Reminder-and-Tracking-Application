@@ -197,8 +197,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-👤 Author
-Ankur Yadav
-
-GitHub:
-https://github.com/ankur4290/Task-Reminder-and-Tracking-Application# Task-Reminder-and-Tracking-Application
